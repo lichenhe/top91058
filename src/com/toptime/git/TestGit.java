@@ -5,7 +5,7 @@ public class TestGit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("ÕâÊÇ¸ö²âÊÔÀà£¡");
+		System.out.println("è¿™æ˜¯ä¸ªæµ‹è¯•ç±»ï¼");
 	}
 
 }
